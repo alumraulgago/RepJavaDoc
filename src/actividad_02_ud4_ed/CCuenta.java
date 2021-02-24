@@ -6,6 +6,10 @@
 package actividad_02_ud4_ed;
 
 
+/**ç
+ * 
+ * @author Raúl Gago Gómez
+ */
 public class CCuenta {
 
 
@@ -26,7 +30,7 @@ public class CCuenta {
     * @param nom Nombre del titular de la CCuenta
     * @param cue Cuenta de la CCuenta
     * @param sal Saldo de la CCuenta
-    * @param tipo Tipo de Interés de la CCuenta
+    * @param tipo Tipo de Interés de la CCuenta 
     */
     public CCuenta (String nom, String cue, double sal, double tipo)
     {
